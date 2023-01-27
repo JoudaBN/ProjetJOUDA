@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: integrationcontinuejbn
-        password: joujou1995@
+        password: Yasmine17112021
         server-dir : public_html/
